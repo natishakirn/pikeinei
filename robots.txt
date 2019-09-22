@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uofiengeep.sophiaholloway.co.uk/sitemap.xml
